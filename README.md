@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hiya!
 
-<!--
-**KomiBoo/komiboo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I dont do much here
+but
+i mean its whatever
 
-Here are some ideas to get you started:
+i guess
+uhmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+yeah
+
+im lost
+
+thanks for reading
+
+https://nxko.net
+
+
+
+![skyes GitHub stats](https://github-readme-stats.vercel.app/api?username=KomiBoo&show_icons=true&theme=neon)  
+[![CatMemes](https://github-readme-stats.vercel.app/api/pin/?username=KomiBoo&repo=cat-memes&theme=neon)](https://github.com/KomiBoo/cat-memes)
