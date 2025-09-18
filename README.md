@@ -20,4 +20,4 @@ https://nxko.net
 ![skyes GitHub stats](https://github-readme-stats.vercel.app/api?username=KomiBoo&show_icons=true&theme=neon)  
 
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet&style=plastic)
+![](https://komarev.com/ghpvc/?username=komiboo&color=blueviolet&style=plastic)
