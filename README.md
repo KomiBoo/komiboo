@@ -44,5 +44,10 @@ There are many ways to contact me, I mainly use telegram though!
 ## Other Links
 [![Static Badge](https://img.shields.io/badge/%40o2uk-steam?style=plastic&logo=steam&logoColor=purple&labelColor=black&color=black)](https://steamcommunity.com/id/o2uk)
 
+---
 
+![skyes GitHub stats](https://github-readme-stats.vercel.app/api?username=KomiBoo&show_icons=true&theme=neon)  
+![](https://komarev.com/ghpvc/?username=komiboo&color=blueviolet&style=plastic)
+
+---
 ![pom](https://nxko.net/pom-3139339609.gif)
