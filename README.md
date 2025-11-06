@@ -43,6 +43,7 @@ There are many ways to contact me, I mainly use telegram though!
 
 ## Other Links
 [![Static Badge](https://img.shields.io/badge/%40o2uk-steam?style=plastic&logo=steam&logoColor=purple&labelColor=black&color=black)](https://steamcommunity.com/id/o2uk)
+[![Static Badge](https://img.shields.io/badge/%40vmo2-namemc?style=plastic&logo=namemc&logoColor=purple&labelColor=black&color=black)](https://namemc.com/profile/vmo2.1)
 
 ---
 
