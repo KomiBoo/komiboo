@@ -35,6 +35,7 @@ here is my very legit work experience in the form of annoying badges
 ![Static Badge](https://img.shields.io/badge/CEO%20%40%20o2%20-%20telefonica?style=plastic&logo=o2&logoColor=white&labelColor=%230050FF&color=black)
 ![Static Badge](https://img.shields.io/badge/CEO%20%40%20vodafone%20-%20vodafone?style=plastic&logo=vodafone&logoColor=white&labelColor=%23E60000&color=black)
 ![Static Badge](https://img.shields.io/badge/CEO%20%40%20tmobile%20-%20tmobile?style=plastic&logo=deutschetelekom&logoColor=white&labelColor=%23E20074&color=black)
+![Static Badge](https://img.shields.io/badge/OrangeUK%20-%20OUK?style=plastic&logo=orange&logoColor=white&labelColor=%23FF7900&color=black)
 ![Static Badge](https://img.shields.io/badge/advisor%20%40%20namecheap%20-%20namecheap?style=plastic&logo=namecheap&logoColor=white&labelColor=%23DE3723&color=black)
 ![Static Badge](https://img.shields.io/badge/janny%20%40%204chan%20-%204chan?style=plastic&logo=4chan&logoColor=white&labelColor=%23006600&color=black)
 ![Static Badge](https://img.shields.io/badge/shitposter%20%40%20BreachForums%20-%20BF?style=plastic&logo=torbrowser&logoColor=white&labelColor=%237D4698&color=black)
