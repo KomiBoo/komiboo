@@ -16,4 +16,14 @@ k::::::k  k:::::ko:::::::::::::::om::::m   m::::m   m::::mi::::::i      :::::: 3
 k::::::k   k:::::koo:::::::::::oo m::::m   m::::m   m::::mi::::::i             3:::::::::::::::33 
 kkkkkkkk    kkkkkkk ooooooooooo   mmmmmm   mmmmmm   mmmmmmiiiiiiii              333333333333333       
 </pre>
-                                      
+![Static Badge](https://img.shields.io/badge/python-3?style=plastic&logo=python&logoColor=purple&labelColor=black&color=black)
+![Static Badge](https://img.shields.io/badge/html-3?style=plastic&logo=html5&logoColor=purple&labelColor=black&color=black)
+![Static Badge](https://img.shields.io/badge/css-css?style=plastic&logo=css&logoColor=purple&labelColor=black&color=black)
+![Static Badge](https://img.shields.io/badge/javascript-js?style=plastic&logo=javascript&logoColor=purple&labelColor=black&color=black)
+![Static Badge](https://img.shields.io/badge/php-php?style=plastic&logo=php&logoColor=purple&labelColor=black&color=black)  
+[![Telegram](https://img.shields.io/badge/@komiboo-Telegram?style=plastic&logo=telegram&logoColor=purple&labelColor=black&color=black)](https://t.me/komiboo)
+![Static Badge](https://img.shields.io/badge/discord%3A%20komiboo-discord?style=plastic&logo=discord&logoColor=purple&labelColor=black&color=black)  
+[![Static Badge](https://img.shields.io/badge/TON%3A%20Nintendo3DS.ton-ton?style=plastic&logo=ton&logoColor=purple&labelColor=black&color=black)](https://tonviewer.com/nintendo3ds.ton)  
+[![Static Badge](https://img.shields.io/badge/%40o2uk-steam?style=plastic&logo=steam&logoColor=purple&labelColor=black&color=black)](https://steamcommunity.com/id/o2uk)
+[![Static Badge](https://img.shields.io/badge/%40vmo2-namemc?style=plastic&logo=namemc&logoColor=purple&labelColor=black&color=black)](https://namemc.com/profile/vmo2.1)  
+![](https://komarev.com/ghpvc/?username=komiboo&color=blueviolet&style=plastic)  
